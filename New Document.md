@@ -48,5 +48,4 @@ you've got to put paragraph tags in your blockquotes:
 
 <blockquote>
 <p>For example.</p>
-`0`
 ![](https://github.com/leowhat/daily/blob/master/%E4%B9%A0%E9%A2%981.png)
